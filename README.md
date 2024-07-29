@@ -16,8 +16,7 @@ This project is a TCP chatroom application that allows users to communicate secu
 - RSA encryption for secure message transmission
 - User interface for easy interaction
 - Support for multiple clients connecting to a single server
-- Ability to send messages to all connected clients
-- Option to send private messages to specific users
+
 
 ## Installation
 
