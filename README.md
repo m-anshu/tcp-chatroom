@@ -30,5 +30,5 @@ This project is a TCP chatroom application that allows users to communicate secu
 ### Setup
  Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tcp-chatroom.git
+   git clone https://github.com/m-anshu/tcp-chatroom.git
    cd tcp-chatroom
